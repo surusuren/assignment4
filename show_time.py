@@ -1,6 +1,8 @@
 from datetime import datetime
 
 current = datetime.now()
-time = now.strftime("%H:%M:%S")
-print("CURRENT TIME IS:",time)
+time = current.strftime("%A")
+
+print("CURRENT TIME IS:",current,time)
+
 
