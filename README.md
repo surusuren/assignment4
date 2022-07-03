@@ -3,5 +3,5 @@
 **Name:** Surendhar Muthu Srinivasa Arunachalam.\ 
 **NUID:** 002959381.\
 **Email:** muthusrinivasaarun.s@northeastern.edu.\ 
-**Department: MGEN-** Telecommunication Networks **University:** Northeastern University./
+**Department: MGEN-** Telecommunication Networks **University:** Northeastern University.\
 
