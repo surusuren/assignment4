@@ -1,5 +1,5 @@
 from datetime import datetime
 
 current = datetime.now()
-print("CURRENT TIME IS:",current)
+print("CURRENT DATE AND TIME IS:",current)
 
